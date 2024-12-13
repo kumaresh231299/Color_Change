@@ -1,0 +1,63 @@
+body{
+    background-color: burlywood;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.colorCard {
+  width: 150px;
+  padding: 50px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0.5, 1.5);
+  background-color: white;
+}
+.circleColor{
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+button{
+    cursor: pointer;
+}
+
+.btnRed {
+  background-color: red;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+}
+.btnGreen {
+  background-color: green;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+}
+.btnBlue {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+}
+.btnReset {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+}
+.textInput {
+  margin-top: 10px;
+  width: 230px;
+  padding: 10px;
+  border-radius: 5px;
+}

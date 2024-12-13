@@ -15,12 +15,7 @@ It includes functionality to reset the color to its default state.
 
 1. **HTML5:** For the structure of the page.
 2. **CSS3:** For styling the page and its components.
-3. **JavaScript:** For dynamic behavior and interaction handling.
-
-## How to Run the Project
-
-1. Clone or download the project files.
-2. Open the index.html file in a web browser.
+3. **JavaScript(DOM Manipulation):** For dynamic behavior and interaction handling.
 
 ## How It Works
 **1. HTML Structure**
@@ -69,3 +64,6 @@ Clicking the Reset button restores the circle to white and clears the text input
 - Add more buttons for additional colors.
 - Validate the custom color input to ensure valid CSS color formats.
 - Add animations for smoother transitions between colors.
+
+## Deployment
+[Color-Changing-Application](https://color-change-application.netlify.app)
